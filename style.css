@@ -1,0 +1,19 @@
+input {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  display: block;
+  text-align: center;
+}
+button {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  display: block;
+  background-color: rgb(127, 127, 175);
+}
+
+submit.button {
+  text-align: bold;
+  font-size: large;
+}
